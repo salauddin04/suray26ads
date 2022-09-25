@@ -1,0 +1,2 @@
+ android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/AppID" /> <!--Admob App ID-->
